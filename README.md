@@ -16,7 +16,7 @@ Data quality is crucial, especially when used for analysis and reporting. This c
 
 ➜ `COALESCE()` to handle missing values.
 
-➜ `TRIM()` and Regular Expressions (using `SIMILAR` TO and `~`), to identify and update invalid values.
+➜ `TRIM()` and Regular Expressions (using `SIMILAR TO` and `~`), to identify and update invalid values.
 
 ➜ `NULLIF()`, `LEFT()`, `SUBSTR()`, `TO_TIMESTAMP()` for data transformation
 
